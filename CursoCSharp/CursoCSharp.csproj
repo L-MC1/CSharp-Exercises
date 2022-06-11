@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Fundamentos\CentralDeExercicios.cs" />
+    <Compile Include="Fundamentos\FormatNum.cs" />
     <Compile Include="Fundamentos\Inferencia.cs" />
     <Compile Include="Fundamentos\Interpolacao.cs" />
     <Compile Include="Fundamentos\Lendodados.cs" />
