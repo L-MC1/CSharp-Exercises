@@ -1,0 +1,8 @@
+C:\Users\k0a35\OneDrive\Documentos\C#\CursoCSharp\CursoCSharp\bin\Debug\CursoCSharp.exe.config
+C:\Users\k0a35\OneDrive\Documentos\C#\CursoCSharp\CursoCSharp\bin\Debug\CursoCSharp.exe
+C:\Users\k0a35\OneDrive\Documentos\C#\CursoCSharp\CursoCSharp\bin\Debug\CursoCSharp.pdb
+C:\Users\k0a35\OneDrive\Documentos\C#\CursoCSharp\CursoCSharp\obj\Debug\CursoCSharp.csproj.AssemblyReference.cache
+C:\Users\k0a35\OneDrive\Documentos\C#\CursoCSharp\CursoCSharp\obj\Debug\CursoCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\k0a35\OneDrive\Documentos\C#\CursoCSharp\CursoCSharp\obj\Debug\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\k0a35\OneDrive\Documentos\C#\CursoCSharp\CursoCSharp\obj\Debug\CursoCSharp.exe
+C:\Users\k0a35\OneDrive\Documentos\C#\CursoCSharp\CursoCSharp\obj\Debug\CursoCSharp.pdb
