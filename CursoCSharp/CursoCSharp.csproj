@@ -50,6 +50,12 @@
     <Compile Include="Fundamentos\Interpolacao.cs" />
     <Compile Include="Fundamentos\Lendodados.cs" />
     <Compile Include="Fundamentos\Notacao.cs" />
+    <Compile Include="Fundamentos\OperadoresAritimeticos.cs" />
+    <Compile Include="Fundamentos\OperadoresAtribuicao.cs" />
+    <Compile Include="Fundamentos\OperadoresLogicos.cs" />
+    <Compile Include="Fundamentos\OperadoresRelacionais.cs" />
+    <Compile Include="Fundamentos\OperadoresUnarios.cs" />
+    <Compile Include="Fundamentos\OperadorTernario.cs" />
     <Compile Include="Fundamentos\PrimeiroPrograma.cs" />
     <Compile Include="Fundamentos\Variaveis.cs" />
     <Compile Include="Program.cs" />
