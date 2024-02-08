@@ -43,6 +43,34 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ClassesEMetodos\AtributosEstaticos.cs" />
+    <Compile Include="ClassesEMetodos\Construtores.cs" />
+    <Compile Include="ClassesEMetodos\DesafioAtributo.cs" />
+    <Compile Include="ClassesEMetodos\ExemploEnum.cs" />
+    <Compile Include="ClassesEMetodos\GetSet.cs" />
+    <Compile Include="ClassesEMetodos\Membros.cs" />
+    <Compile Include="ClassesEMetodos\MetodosComRetorno.cs" />
+    <Compile Include="ClassesEMetodos\MetodosEstaticos.cs" />
+    <Compile Include="ClassesEMetodos\ParametroPadrao.cs" />
+    <Compile Include="ClassesEMetodos\ParametrosNomeados.cs" />
+    <Compile Include="ClassesEMetodos\ParametrosPorReferencia.cs" />
+    <Compile Include="ClassesEMetodos\Params.cs" />
+    <Compile Include="ClassesEMetodos\Pessoa.cs" />
+    <Compile Include="ClassesEMetodos\Props.cs" />
+    <Compile Include="ClassesEMetodos\Readonly.cs" />
+    <Compile Include="ClassesEMetodos\Struct.cs" />
+    <Compile Include="ClassesEMetodos\StructVsClasse.cs" />
+    <Compile Include="ClassesEMetodos\ValorVsReferencia.cs" />
+    <Compile Include="EstruturasDeControle\EstruturaDoWhile.cs" />
+    <Compile Include="EstruturasDeControle\EstruturaFor.cs" />
+    <Compile Include="EstruturasDeControle\EstruturaForEach.cs" />
+    <Compile Include="EstruturasDeControle\EstruturaIf.cs" />
+    <Compile Include="EstruturasDeControle\EstruturaIfElse.cs" />
+    <Compile Include="EstruturasDeControle\EstruturaIfElseIf.cs" />
+    <Compile Include="EstruturasDeControle\EstruturaSwitch.cs" />
+    <Compile Include="EstruturasDeControle\EstruturaWhile.cs" />
+    <Compile Include="EstruturasDeControle\UsandoBreak.cs" />
+    <Compile Include="EstruturasDeControle\UsandoContinue.cs" />
     <Compile Include="Fundamentos\CentralDeExercicios.cs" />
     <Compile Include="Fundamentos\Conversao.cs" />
     <Compile Include="Fundamentos\FormatNum.cs" />
