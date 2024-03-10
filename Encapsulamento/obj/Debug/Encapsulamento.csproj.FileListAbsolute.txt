@@ -1,0 +1,6 @@
+C:\Users\k0a35\OneDrive\Documentos\C#\Encapsulamento\bin\Debug\Encapsulamento.dll
+C:\Users\k0a35\OneDrive\Documentos\C#\Encapsulamento\bin\Debug\Encapsulamento.pdb
+C:\Users\k0a35\OneDrive\Documentos\C#\Encapsulamento\obj\Debug\Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\k0a35\OneDrive\Documentos\C#\Encapsulamento\obj\Debug\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\k0a35\OneDrive\Documentos\C#\Encapsulamento\obj\Debug\Encapsulamento.dll
+C:\Users\k0a35\OneDrive\Documentos\C#\Encapsulamento\obj\Debug\Encapsulamento.pdb

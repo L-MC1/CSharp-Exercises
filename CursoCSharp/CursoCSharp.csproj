@@ -43,6 +43,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Api\Diretorios.cs" />
+    <Compile Include="Api\ExemploDateTime.cs" />
+    <Compile Include="Api\ExemploDirectoryInfo.cs" />
+    <Compile Include="Api\ExemploFileInfo.cs" />
+    <Compile Include="Api\ExemploPath.cs" />
+    <Compile Include="Api\ExemploTimeSpan.cs" />
+    <Compile Include="Api\LendoArquivos.cs" />
+    <Compile Include="Api\PrimeiroArquivo.cs" />
     <Compile Include="ClassesEMetodos\AtributosEstaticos.cs" />
     <Compile Include="ClassesEMetodos\Construtores.cs" />
     <Compile Include="ClassesEMetodos\DesafioAtributo.cs" />
@@ -79,6 +87,8 @@
     <Compile Include="EstruturasDeControle\EstruturaWhile.cs" />
     <Compile Include="EstruturasDeControle\UsandoBreak.cs" />
     <Compile Include="EstruturasDeControle\UsandoContinue.cs" />
+    <Compile Include="Excecoes\ExcecoesPersonalizadas.cs" />
+    <Compile Include="Excecoes\PrimeiraExcecao.cs" />
     <Compile Include="Fundamentos\CentralDeExercicios.cs" />
     <Compile Include="Fundamentos\Conversao.cs" />
     <Compile Include="Fundamentos\FormatNum.cs" />
@@ -94,11 +104,35 @@
     <Compile Include="Fundamentos\OperadorTernario.cs" />
     <Compile Include="Fundamentos\PrimeiroPrograma.cs" />
     <Compile Include="Fundamentos\Variaveis.cs" />
+    <Compile Include="MetodosEFuncoes\DelegateFunAnonima.cs" />
+    <Compile Include="MetodosEFuncoes\DelegatesComoParametros.cs" />
+    <Compile Include="MetodosEFuncoes\ExemploLambda.cs" />
+    <Compile Include="MetodosEFuncoes\LambdasDelegate.cs" />
+    <Compile Include="MetodosEFuncoes\MetodosDeExtensao.cs" />
+    <Compile Include="MetodosEFuncoes\UsandoDelegates.cs" />
+    <Compile Include="OO\Abstract.cs" />
+    <Compile Include="OO\ConstrutorThis.cs" />
+    <Compile Include="OO\Encapsulamento.cs" />
+    <Compile Include="OO\Heranca.cs" />
+    <Compile Include="OO\Interface.cs" />
+    <Compile Include="OO\Polimorfismo.cs" />
+    <Compile Include="OO\Sealed.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TopicosAvancados\Dynamics.cs" />
+    <Compile Include="TopicosAvancados\Genericos.cs" />
+    <Compile Include="TopicosAvancados\LINQ1.cs" />
+    <Compile Include="TopicosAvancados\LINQ2.cs" />
+    <Compile Include="TopicosAvancados\Nullables.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Encapsulamento\Encapsulamento.csproj">
+      <Project>{3c81b2da-a587-41d7-8ca7-4eb599ba1e85}</Project>
+      <Name>Encapsulamento</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

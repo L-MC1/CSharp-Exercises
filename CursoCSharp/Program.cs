@@ -1,9 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
+
+using CursoCSharp.Fundamentos;
+using CursoCSharp.EstruturasDeControle;
 using CursoCSharp.ClassesEMetodos;
 using CursoCSharp.Colecoes;
-using CursoCSharp.EstruturasDeControle;
-using CursoCSharp.Fundamentos;
+using CursoCSharp.OO;
+using CursoCSharp.MetodosEFuncoes;
+using CursoCSharp.Excecoes;
+using CursoCSharp.Api;
+using CursoCSharp.TopicosAvancados;
 
 namespace CursoCSharp
 {
@@ -69,6 +75,44 @@ namespace CursoCSharp
                 { "Igualdade - Coleções", Igualdade.Executar},
                 { "Stack - Coleções", ColecoesStack.Executar},
                 { "Dictionary - Coleções", ColecoesDictionary.Executar},
+
+                // OO
+                { "Herança - OO", Heranca.Executar},
+                { "Construtor This - OO", ConstrutorThis.Executar},
+                { "Encapsulamento - OO", OO.Encapsulamento.Executar},
+                { "Polimorfismo - OO", Polimorfismo.Executar},
+                { "Abstract - OO", Abstract.Executar},
+                { "Interface - OO", Interface.Executar},
+                { "Sealed - OO", Sealed.Executar},
+
+                // Métodos & Funções
+                { "Exemplo Lambda - Métodos & Funções", ExemploLambda.Executar},
+                { "Lambdas Como Delegates - Métodos & Funções", LambdasDelegate.Executar},
+                { "Usando Delegates - Métodos & Funções", UsandoDelegates.Executar},
+                { "Delegates Como Função Anonima - Métodos & Funções", DelegateFunAnonima.Executar},
+                { "Delegates Como Parâmetros - Métodos & Funções", DelegatesComoParametros.Executar},
+                { "Métodos de Extensão - Métodos & Funções", MetodosDeExtensao.Executar},
+
+                // Exceções
+                { "Primeira Exceção - Exceções", PrimeiraExcecao.Executar},
+                { "Exceções Personalizadas - Exceções", ExcecoesPersonalizadas.Executar},
+
+                // Api
+                { "Primeiro Arquivo - Usando API", PrimeiroArquivo.Executar},
+                { "Lendo Arquivos - Usando API", LendoArquivos.Executar},
+                { "Exemplo FileInfo - Usando API", ExemploFileInfo.Executar},
+                { "Diretórios - Usando API", Diretorios.Executar},
+                { "Exemplo DirectoryInfo - Usando API", ExemploDirectoryInfo.Executar},
+                { "Exemplo Path - Usando API", ExemploPath.Executar},
+                { "Exemplo DateTime - Usando API", ExemploDateTime.Executar},
+                { "Exemplo Timespan - Usando API", ExemploTimeSpan.Executar},
+
+                // Tópicos Avançados
+                { "LINQ #01 - Tópicos Avançados", LINQ1.Executar},
+                { "LINQ #02 - Tópicos Avançados", LINQ2.Executar},
+                { "Nullables - Tópicos Avançados", Nullables.Executar},
+                { "Dynamics - Tópicos Avançados", Dynamics.Executar},
+                { "Genéricos - Tópicos Avançados", Genericos.Executar},
 
             });
 
