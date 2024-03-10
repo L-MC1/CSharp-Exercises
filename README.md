@@ -1,2 +1,2 @@
-# Estudos-CSharp
-Exercicios em C# (.NET framework)
+# C# Study
+Exercises C# (.NET framework)
